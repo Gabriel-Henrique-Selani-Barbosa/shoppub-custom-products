@@ -1,0 +1,51 @@
+{
+  "index.css": {
+    "file": "assets/index-843ac276.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/flip-horizontal-6236e9f4.svg",
+      "assets/flip-vertical-f1f99fd6.svg",
+      "assets/rotate-clockwise-6ed19939.svg",
+      "assets/rotate-counter-clockwise-614fb714.svg",
+      "assets/zoom-in-bb994f35.svg",
+      "assets/zoom-out-0679bc8a.svg",
+      "assets/logo-9c27e551.png"
+    ],
+    "css": [
+      "assets/index-843ac276.css"
+    ],
+    "file": "assets/index-ba0bd470.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/icons/flip-horizontal.svg": {
+    "file": "assets/flip-horizontal-6236e9f4.svg",
+    "src": "src/assets/icons/flip-horizontal.svg"
+  },
+  "src/assets/icons/flip-vertical.svg": {
+    "file": "assets/flip-vertical-f1f99fd6.svg",
+    "src": "src/assets/icons/flip-vertical.svg"
+  },
+  "src/assets/icons/rotate-clockwise.svg": {
+    "file": "assets/rotate-clockwise-6ed19939.svg",
+    "src": "src/assets/icons/rotate-clockwise.svg"
+  },
+  "src/assets/icons/rotate-counter-clockwise.svg": {
+    "file": "assets/rotate-counter-clockwise-614fb714.svg",
+    "src": "src/assets/icons/rotate-counter-clockwise.svg"
+  },
+  "src/assets/icons/zoom-in.svg": {
+    "file": "assets/zoom-in-bb994f35.svg",
+    "src": "src/assets/icons/zoom-in.svg"
+  },
+  "src/assets/icons/zoom-out.svg": {
+    "file": "assets/zoom-out-0679bc8a.svg",
+    "src": "src/assets/icons/zoom-out.svg"
+  },
+  "src/assets/img/logo.png": {
+    "file": "assets/logo-9c27e551.png",
+    "src": "src/assets/img/logo.png"
+  }
+}
